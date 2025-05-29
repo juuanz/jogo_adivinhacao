@@ -1,6 +1,6 @@
 import random
 
-print("Bem-vindo ao Jogo de Adivinhação")
+print("Bem-vindo ao Jogo de Adivinhação!")
 print("Tente adivinhar o número que eu estou pensando (entre 1 e 100).")
 
 numero_secreto= random.randint(1, 100)
