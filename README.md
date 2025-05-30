@@ -11,9 +11,10 @@ A máquina esolhe um número aleatório entre 1 e 100, e o usuário precisa adiv
 
 1. Clone esse repositório
 2. Abra o arquivo no Visual Studio Code
-3. Acesse o terminal, com o atalho "Cntrl + '(aspas)"
-4. Execute o arquivo main.py > **python main.py**
-5. Assim, você já poderá arriscar suas tentativas.
+3. Procure e acesse a página com nome *main.py*
+4. Acesse o terminal, com o atalho "Cntrl + '(aspas)"
+5. Execute o arquivo main.py > **python main.py**
+6. Assim, você já poderá arriscar suas tentativas.
 
 **BOM JOGO!**
 
