@@ -19,4 +19,4 @@ A máquina esolhe um número aleatório entre 1 e 100, e o usuário precisa adiv
 **BOM JOGO!**
 
 
-Se bem reparado, o repositório contém arquvios de HTML e CSS: "index.hmtl" e "sytle.css". A ideia principal, era criar o código do jogo e vincula-lo ao site que criei, porém a linguagem ideal para isso, seria JavaScript. Estou começando um curso da mesma, em breve atualizarei o repositório para que o jogo possa ser inciado por meio do site. Caso tenha interesse de vizualizar como ficou na página da web, acesse a pasta que fez o donwload para clonar o repositório e abra o aquivo "index" em seu navegador.
+Se bem reparado, o repositório contém arquvios de HTML e CSS: "index.hmtl" e "sytle.css". A ideia principal, era criar o código do jogo e vincula-lo ao site que criei, porém a linguagem ideal para isso, seria JavaScript. Estou começando um curso da mesma, em breve atualizarei o repositório para que o jogo possa ser iniciado por meio do site. Caso tenha interesse de vizualizar como ficou na página da web, acesse a pasta que fez o donwload para clonar o repositório e abra o aquivo "index" em seu navegador.
